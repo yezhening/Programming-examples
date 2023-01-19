@@ -1,5 +1,6 @@
 #变量
 targets = main.exe
+VPATH = src
 
 #伪目标
 .PHONY : all
