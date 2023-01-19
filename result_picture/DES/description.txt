@@ -1,6 +1,0 @@
-one.png：调用代码
-two.png：加密过程
-three.png：解密过程
-four.png：雪崩效应测试1
-five.png：雪崩效应测试2
-six.png：雪崩效应测试3
