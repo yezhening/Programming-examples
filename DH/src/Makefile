@@ -6,8 +6,8 @@ targets = main.exe
 all : $(targets) 
 
 #规则
-main.exe : main.cpp DES.cpp
-	g++ -fexec-charset=GBK -o main.exe main.cpp DES.cpp
+main.exe : main.cpp DH.cpp
+	g++ -fexec-charset=GBK -o main.exe main.cpp DH.cpp
 
 #伪目标
 .PHONY : clean
