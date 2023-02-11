@@ -1,0 +1,3 @@
+one.png：使用g++直接编译，运行失败
+two.png：使用gdb调试，运行成功
+three.png：使用VS Code间接编译，运行成功
