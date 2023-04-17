@@ -9,7 +9,7 @@
 
 ## 二、内容
 
-### 1. 数据结构：data_structure
+### 1. 数据结构：data_structure（11例）
 
 （1）顺序表：sequence_list
 
@@ -83,7 +83,7 @@
 - 排序的实现模板
 - **有详细的步骤解析和使用示例**
 
-### 2. 网络安全：network_security
+### 2. 网络安全：network_security（3例）
 
 （1）数据加密标准（DES）密码算法：DES
 
@@ -116,7 +116,7 @@
 - 提示易错点
 - **解析Diffie-Hellman步骤（网络上大部分实现代码的含义不明确，本代码相对明确）**
 
-### 3.Go：Go
+### 3.Go：Go（2例）
 
 （1）生产者消费者模型：producer_consumer_model
 
@@ -132,6 +132,21 @@
 
 > 相比于C、C++和其他语言，使用Go实现并发编程的逻辑很简单
 
+- **有详细的步骤解析**
+
+（2）客户端/服务端（C/S）模型：client_server_model
+
+- 实现服务端和客户端的简单通信：服务端接收，并原样发送所接收的数据给客户端
+
+- 服务端使用多协程处理与多客户端的连接
+
+- 客户端使用多协程处理终端用户输入和接收服务端数据
+
+> 相比于C、C++和其他语言，使用Go实现网络编程的逻辑很简单
+
+
+- **有详细的步骤解析**
+
 ## 三、主要参考资料
 
 ### 1. 数据结构
@@ -143,3 +158,8 @@
 ### 2. 网络安全
 
 - 《密码编码学与网络安全——原理与实践(第五版)》作者：William Stallings
+
+### 3.Go
+
+- [20个小时快速入门go语言（中）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1UW411x7Ve/?spm_id_from=333.337.search-card.all.click&vd_source=9ac1c0a6d496218112b60d49bc768cd7)
+- [黑马程序员20个小时快速入门go语言（下）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV17W411W7hm/?spm_id_from=333.337.search-card.all.click)

@@ -34,5 +34,4 @@ Go的并发编程：
 
 ## 参考资料
 
-- [20个小时快速入门go语言（中）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1UW411x7Ve/?spm_id_from=333.337.search-card.all.click)
 - [一文看懂Go语言协程的设计与原理 - 掘金 (juejin.cn)](https://juejin.cn/post/7044741465930465311)
