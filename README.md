@@ -118,7 +118,15 @@
 - 提示易错点
 - **解析Diffie-Hellman步骤（网络上大部分实现代码的含义不明确，本代码相对明确）**
 
-### 3. Go：Go（3例）
+### 3. Node.js：Node.js（1例）
+
+（1）简单Web服务端：simple_Web_server
+
+- **详细解析创建http服务端的流程、URL的组成、请求消息的结构和响应消息的结构**
+
+- 通过网络传输，浏览器客户端向该Web服务端发送“GET”请求，服务端依据URL响应本地相应的HTML、CSS和JavaScript文件，并在客户端渲染显示页面
+
+### 4. Go：Go（3例）
 
 （1）生产者消费者模型：producer_consumer_model
 
@@ -173,7 +181,14 @@
 
 - 《密码编码学与网络安全——原理与实践(第五版)》作者：William Stallings
 
-### 3.Go
+### 3. Node.js
+
+- [Node.js (nodejs.org)](https://nodejs.org/en)
+- [Node.js 中文网 (nodejs.cn)](https://nodejs.cn/)
+- [黑马程序员Node.js全套入门教程，nodejs新教程含es6模块化+npm+express+webpack+promise等_Nodejs实战案例详解_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1a34y167AZ/?spm_id_from=333.337.search-card.all.click&vd_source=9ac1c0a6d496218112b60d49bc768cd7)
+- [尚硅谷2023版Node.js零基础视频教程，nodejs新手到高手_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1gM411W7ex/?spm_id_from=333.337.search-card.all.click&vd_source=9ac1c0a6d496218112b60d49bc768cd7)
+
+### 4.Go
 
 - [20个小时快速入门go语言（中）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1UW411x7Ve/?spm_id_from=333.337.search-card.all.click&vd_source=9ac1c0a6d496218112b60d49bc768cd7)
 - [黑马程序员20个小时快速入门go语言（下）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV17W411W7hm/?spm_id_from=333.337.search-card.all.click)
