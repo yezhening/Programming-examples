@@ -85,7 +85,27 @@
 - 排序的实现模板
 - **有详细的步骤解析和使用示例**
 
-### 2. 网络安全：network_security（3例）
+### 2. 设计模式：design_pattern（3例）
+
+（1）简单工厂：simple_factory
+
+- **纯 ** C++ 语言
+- 面向对象编程范式
+- 现代 C++ 标准
+
+（2）工厂方法：factory_method
+
+- **纯 ** C++ 语言
+- 面向对象编程范式
+- 现代 C++ 标准
+
+（3）抽象工厂：abstract_factory
+
+- **纯** C++ 语言
+- 面向对象编程范式
+- 现代 C++ 标准
+
+### 3. 网络安全：network_security（3例）
 
 （1）数据加密标准（DES）密码算法：DES
 
@@ -118,7 +138,7 @@
 - 提示易错点
 - **解析Diffie-Hellman步骤（网络上大部分实现代码的含义不明确，本代码相对明确）**
 
-### 3. C++：C++（5例）
+### 4. C++：C++（5例）
 
 （1）组合数简单生成工具：simple_combination
 
@@ -150,7 +170,7 @@
 - **注释有详细的步骤解析**
 
 
-### 4. Node.js：Node.js（1例）
+### 5. Node.js：Node.js（1例）
 
 （1）简单Web服务端：simple_Web_server
 
@@ -158,7 +178,7 @@
 
 - 通过网络传输，浏览器客户端向该Web服务端发送“GET”请求，服务端依据URL响应本地相应的HTML、CSS和JavaScript文件，并在客户端渲染显示页面
 
-### 5. Go：Go（3例）
+### 6. Go：Go（3例）
 
 （1）生产者消费者模型：producer_consumer_model
 
@@ -209,22 +229,26 @@
 - 《2023年计算机组成原理考研复习指导》组编：王道论坛
 - 《大话数据结构》作者：程杰
 
-### 2. 网络安全
+### 2. 设计模式
+
+- [设计模式_夜悊的博客-CSDN博客](https://blog.csdn.net/m0_62083249/category_11757923.html?spm=1001.2014.3001.5482)
+
+### 3. 网络安全
 
 - 《密码编码学与网络安全——原理与实践(第五版)》作者：William Stallings
 
-### 3. C++
+### 4. C++
 
 - 学校《高级算法设计与分析》课程课件的算法思路
 
-### 4. Node.js
+### 5. Node.js
 
 - [Node.js (nodejs.org)](https://nodejs.org/en)
 - [Node.js 中文网 (nodejs.cn)](https://nodejs.cn/)
 - [黑马程序员Node.js全套入门教程，nodejs新教程含es6模块化+npm+express+webpack+promise等_Nodejs实战案例详解_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1a34y167AZ/?spm_id_from=333.337.search-card.all.click&vd_source=9ac1c0a6d496218112b60d49bc768cd7)
 - [尚硅谷2023版Node.js零基础视频教程，nodejs新手到高手_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1gM411W7ex/?spm_id_from=333.337.search-card.all.click&vd_source=9ac1c0a6d496218112b60d49bc768cd7)
 
-### 5.Go
+### 6.Go
 
 - [20个小时快速入门go语言（中）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1UW411x7Ve/?spm_id_from=333.337.search-card.all.click&vd_source=9ac1c0a6d496218112b60d49bc768cd7)
 - [黑马程序员20个小时快速入门go语言（下）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV17W411W7hm/?spm_id_from=333.337.search-card.all.click)
