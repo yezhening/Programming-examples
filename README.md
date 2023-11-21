@@ -9,7 +9,7 @@
 
 - 工具：C、C++、Node.js、Go
 
-## 二、内容（28例）
+## 二、内容（30例）
 
 ### 1. 数据结构：data_structure（11例）
 
@@ -85,33 +85,45 @@
 - 排序的实现模板
 - **有详细的步骤解析和使用示例**
 
-### 2. 设计模式：design_pattern（5例）
+### 2. 设计模式：design_pattern（7例）
 
-（1）简单工厂：simple_factory
+（1.1）单例（饿汉式）：singleton/singleton_eager
 
-- **纯 ** C++ 语言
-- 面向对象编程范式
+- **纯** C++ 语言
 - 现代 C++ 标准
+- 详细注释
 
-（2）工厂方法：factory_method
+（1.2）单例（懒汉式）：singleton/singleton_lazy
 
-- **纯 ** C++ 语言
-- 面向对象编程范式
+- **纯** C++ 语言
 - 现代 C++ 标准
+- 详细注释
 
-（3）抽象工厂：abstract_factory
+（2）简单工厂：simple_factory
 
 - **纯** C++ 语言
 - 面向对象编程范式
 - 现代 C++ 标准
 
-（4）原型：prototype
+（3）工厂方法：factory_method
 
 - **纯** C++ 语言
 - 面向对象编程范式
 - 现代 C++ 标准
 
-（5）建造者：builder
+（4）抽象工厂：abstract_factory
+
+- **纯** C++ 语言
+- 面向对象编程范式
+- 现代 C++ 标准
+
+（5）原型：prototype
+
+- **纯** C++ 语言
+- 面向对象编程范式
+- 现代 C++ 标准
+
+（6）建造者：builder
 
 - **纯** C++ 语言
 - 面向对象编程范式
