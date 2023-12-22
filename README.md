@@ -9,7 +9,7 @@
 
 - 工具：C、C++、Node.js、Go
 
-## 二、内容（38例）
+## 二、内容（41例）
 
 ### 1. 数据结构：data_structure（11例）
 
@@ -85,7 +85,7 @@
 - 排序的实现模板
 - **有详细的步骤解析和使用示例**
 
-### 2. 设计模式：design_pattern（15例）
+### 2. 设计模式：design_pattern（18例）
 
 （1.1）单例（饿汉式）：singleton/singleton_eager
 
@@ -134,37 +134,52 @@
 - **纯** C++ 语言
 - 面向对象编程范式
 
-（8.1）适配器（类适配器模式）：adapter/adapter_class
+（8.1）适配器（类适配器式）：adapter/adapter_class
 
 - **纯** C++ 语言
 - 面向对象编程范式
 
-（8.2）适配器（对象适配器模式）：adapter/adapter_object
+（8.2）适配器（对象适配器式）：adapter/adapter_object
 
 - **纯** C++ 语言
 - 面向对象编程范式
 
-（9）外观模式：facade
+（9）外观：facade
 
 - **纯** C++ 语言
 - 面向对象编程范式
 
-（10）装饰模式：decorator
+（10）装饰：decorator
 
 - **纯** C++ 语言
 - 面向对象编程范式
 
-（11）组合模式：composite
+（11）组合：composite
 
 - **纯** C++ 语言
 - 面向对象编程范式
 
-（12）桥接模式：bridge
+（12）桥接：bridge
 
 - **纯** C++ 语言
 - 面向对象编程范式
 
-（13）享元模式：flyweight
+（13）享元：flyweight
+
+- **纯** C++ 语言
+- 面向对象编程范式
+
+（14）模板方法：template_method
+
+- **纯** C++ 语言
+- 面向对象编程范式
+
+（15）策略：strategy
+
+- **纯** C++ 语言
+- 面向对象编程范式
+
+（16）职责链：chain_of_responsibility
 
 - **纯** C++ 语言
 - 面向对象编程范式
